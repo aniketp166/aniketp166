@@ -43,12 +43,10 @@ Passionate about building scalable and high-performance applications. Constantly
 - **AWS Certified** – [![AWS Badge](https://img.shields.io/badge/View%20Certificate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/7e94f85f-3590-4a17-83d7-ae83294ea91b)  
 
 ---
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aniketp166&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=aniketp166&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketp166&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aniketp166&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aniketp166&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketp166&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 📩 Contact Me:
